@@ -1,0 +1,76 @@
+RP/1/RP0/CPU0:Apr  6 00:02:38.883 UTC: TELNETD_[69156]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 00:04:02.023 UTC: TELNETD_[69213]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 00:04:11.428 UTC: exec[69223]: %SECURITY-login-6-CLOSE : User 'cariden12_x' logged out 
+RP/1/RP0/CPU0:Apr  6 00:04:35.997 UTC: TELNETD_[69287]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 00:04:44.202 UTC: exec[69166]: %SECURITY-login-6-CLOSE : User 'linkflap_x' logged out 
+LC/0/0/CPU0:Apr  6 00:04:54.734 UTC: nfsvr[199]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 00:05:02.929 UTC: TELNETD_[69410]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 00:14:42.597 UTC: TELNETD_[69487]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 00:14:52.083 UTC: exec[69497]: %SECURITY-login-6-CLOSE : User 'cariden12_x' logged out 
+LC/1/1/CPU0:Apr  6 00:15:29.010 UTC: nfsvr[257]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+LC/0/1/CPU0:Apr  6 00:17:08.398 UTC: nfsvr[133]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 00:18:35.827 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50324, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:18:35.829 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50324, changed state to Down 
+LC/1/7/CPU0:Apr  6 00:24:19.992 UTC: nfsvr[278]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+LC/1/0/CPU0:Apr  6 00:29:53.641 UTC: nfsvr[231]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 00:30:52.323 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50325, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:30:52.326 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50325, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:32:26.482 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50326, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:32:26.485 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50326, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:34:06.897 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50327, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:34:06.897 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50328, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:34:06.899 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50327, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:34:06.899 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50328, changed state to Down 
+LC/0/0/CPU0:Apr  6 00:34:57.914 UTC: nfsvr[199]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 00:40:14.737 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50332, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:40:14.737 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50333, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:40:14.739 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50332, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:40:14.739 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50333, changed state to Down 
+LC/1/1/CPU0:Apr  6 00:45:29.182 UTC: nfsvr[257]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+LC/0/1/CPU0:Apr  6 00:47:08.398 UTC: nfsvr[133]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 00:49:57.182 UTC: mpls_ldp[1042]: %ROUTING-LDP-4-PEER_DUP_ADDRS : VRF 'default' (0x60000000), 2 Duplicate address(es) advertised by more than one peer 
+LC/1/7/CPU0:Apr  6 00:54:20.519 UTC: nfsvr[278]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 00:58:30.667 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50334, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:58:30.667 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50335, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:58:30.670 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50334, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 00:58:30.670 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50335, changed state to Down 
+LC/1/0/CPU0:Apr  6 00:59:53.995 UTC: nfsvr[231]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 01:05:02.624 UTC: TELNETD_[66621]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+LC/0/0/CPU0:Apr  6 01:05:02.639 UTC: nfsvr[199]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 01:05:12.773 UTC: exec[66631]: %SECURITY-login-6-CLOSE : User 'cariden12_x' logged out 
+RP/1/RP0/CPU0:Apr  6 01:05:21.316 UTC: TELNETD_[66695]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 01:05:27.722 UTC: exec[66705]: %SECURITY-login-6-CLOSE : User 'cariden12_x' logged out 
+LC/1/1/CPU0:Apr  6 01:15:29.182 UTC: nfsvr[257]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+LC/0/1/CPU0:Apr  6 01:17:08.398 UTC: nfsvr[133]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 01:20:40.828 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50336, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:20:40.831 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50336, changed state to Down 
+LC/1/7/CPU0:Apr  6 01:24:20.703 UTC: nfsvr[278]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+LC/1/0/CPU0:Apr  6 01:29:53.995 UTC: nfsvr[231]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 01:32:57.324 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50337, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:32:57.327 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50337, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:34:31.483 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50338, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:34:31.486 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50338, changed state to Down 
+LC/0/0/CPU0:Apr  6 01:35:04.166 UTC: nfsvr[199]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 01:36:11.898 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50339, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:36:11.898 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50340, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:36:11.902 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50339, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:36:11.902 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50340, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:40:21.595 UTC: TELNETD_[66923]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 01:41:53.918 UTC: TELNETD_[67193]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 01:42:19.738 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50341, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:42:19.738 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50342, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:42:19.741 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50341, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 01:42:19.741 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50342, changed state to Down 
+LC/1/1/CPU0:Apr  6 01:45:29.181 UTC: nfsvr[257]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+LC/0/1/CPU0:Apr  6 01:47:08.516 UTC: nfsvr[133]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 01:49:57.180 UTC: mpls_ldp[1042]: %ROUTING-LDP-4-PEER_DUP_ADDRS : VRF 'default' (0x60000000), 2 Duplicate address(es) advertised by more than one peer 
+LC/1/7/CPU0:Apr  6 01:54:20.952 UTC: nfsvr[278]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 01:59:34.592 UTC: TELNETD_[67928]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+LC/1/0/CPU0:Apr  6 01:59:53.995 UTC: nfsvr[231]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor default has been exceeded 
+RP/1/RP0/CPU0:Apr  6 02:00:31.966 UTC: exec[67938]: %SECURITY-login-6-CLOSE : User 'mcast01' logged out 
+RP/1/RP0/CPU0:Apr  6 02:00:34.890 UTC: TELNETD_[68299]: %IP-TELNETD-7-MAP_STAT : tty_map_stat_init failed rc 1   
+RP/1/RP0/CPU0:Apr  6 02:00:35.669 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50343, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 02:00:35.669 UTC: ifmgr[276]: %PKT_INFRA-LINK-3-UPDOWN : Interface tunnel-te50344, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 02:00:35.671 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50343, changed state to Down 
+RP/1/RP0/CPU0:Apr  6 02:00:35.671 UTC: ifmgr[276]: %PKT_INFRA-LINEPROTO-5-UPDOWN : Line protocol on Interface tunnel-te50344, changed state to Down 
+LC/1/0/CPU0:Apr  6 02:05:41.075 UTC: nfsvr[231]: %MGBL-NETFLOW-6-INFO_CACHE_SIZE_EXCEEDED : Cache size of 65535 for monitor defaultv6 has been exceeded 
